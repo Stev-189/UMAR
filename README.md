@@ -87,4 +87,12 @@
         "CRITICAL"
     ],
 ```
-
+suguiero identificar los comentarios
+ejemplo: 
+```
+//NOTE :EM: 'Mi comentario'
+//REF :JB: 'Mi otro comentario'
+```
+EM: Erick Machicado
+JB: Jose Bello
+EP: Esteban Pavez
